@@ -1,0 +1,78 @@
+.container{
+	display:flex;
+	
+padding: 0 5%;
+width: 100%;
+margin:0;
+text-align:center;
+}
+
+
+
+
+
+.media{
+height:250px;
+}
+
+.details{
+display:flex;
+justify-content: space-between;
+margin:20px ;
+}
+
+
+.title{
+padding: 0 16px; 
+
+}
+
+.cardactions{
+display: flex;
+justify-content: space-between;
+}
+
+.footer{
+text-align: center;
+position: fixed;
+left:0;
+bottom:0;
+color:black;
+width: 100%;
+display:flex;
+align-items: center;
+justify-content: center;
+height:120px;
+
+}
+
+
+.link{
+text-decoration: none;
+color:rgba(21,101,192);
+
+}
+
+image{
+margin-left: 20px;
+
+}
+
+.logoContainer{
+padding:0 5%;
+display:flex;
+justify-content: space-around;
+align-items:center;
+width:100%;
+justify-content: center;
+margin-top:30px;
+border-radius:5%;
+}
+
+
+.alanlogo{
+height:27vmin;
+border-radius: 5%;
+margin-bottom: 30px;
+
+}

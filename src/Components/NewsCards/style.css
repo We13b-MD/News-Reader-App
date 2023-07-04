@@ -1,0 +1,26 @@
+.Card{
+display:flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+width:80%;
+height:45vh;
+padding:10%;
+border-radius: 10px;
+color:white;
+
+}
+
+.Container{
+	padding-left:50px;
+	
+
+
+}
+.infoCard{
+display: flex;
+flex-direction: column;
+text-align: center;
+
+
+}
